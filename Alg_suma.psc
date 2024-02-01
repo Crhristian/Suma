@@ -6,6 +6,6 @@ Algoritmo Alg_suma
 	
 	suma = int_numero1 + int_numero2
 	
-	Escribir 'El resultado de la operacion  ',int_numero1, ' * ', int_numero2, ' es ', suma
+	Escribir 'El resultado de la operacion  ',int_numero1, ' * ', int_numero2, ' es ', suma, 'es mi primera chamba'
 	
 FinAlgoritmo
